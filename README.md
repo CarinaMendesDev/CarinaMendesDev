@@ -59,16 +59,20 @@
   <h1> 
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Incoming%20Envelope.webp" alt="Incoming Envelope" width="40" /> Contato
   </h1>
-
-  <a href="mailto:carinamendes2013@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
-  </a>
+  
   <a href="https://github.com/CarinaMendesDev">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
   </a>
+  
   <a href="https://www.linkedin.com/in/carinamendesdev/">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
   </a>
+  
+  <a href="mailto:carinamendes2013@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
+    <p style="color:#fff; font-size:14px;">carinamendes2013@gmail.com</p>
+  </a>
+  
 </div>
  <!-- linha animada aqui -->
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
