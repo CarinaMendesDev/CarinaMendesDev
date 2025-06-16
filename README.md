@@ -45,7 +45,8 @@
 
 <details open>
   <summary><h2>🗔️ Banco de Dados</h2></summary>
-  <img src="https://skillicons.dev/icons?i=mysql" alt="database"/>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/>
+  <img src="https://img.icons8.com/color/48/mysql-workbench.png" width="40" alt="MySQL Workbench"/>
 </details>
 
 <details open>
