@@ -13,10 +13,12 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Graduation%20Cap.webp" width="25"/> **Estudante de Engenharia de Software (Bacharelado)**  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" width="25"/> **Técnica em Desenvolvimento de Sistemas**  
-<img src="https://img.icons8.com/fluency/48/marker.png" width="20"/> **Local:** Jaú - SP
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Graduation%20Cap.webp" width="25"/> <strong>Estudante de Engenharia de Software (Bacharelado)</strong><br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" width="25"/> <strong>Técnica em Desenvolvimento de Sistemas</strong><br>
+<img src="https://img.icons8.com/fluency/48/marker.png" width="20"/> <strong>Local:</strong> Jaú - SP
+
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 <div align="center">
   <h1> 
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Incoming%20Envelope.webp" alt="Incoming Envelope" width="40" /> Contato
@@ -31,6 +33,8 @@
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
   </a>
 </div>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <div align="center">
 <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" width="40"/> Tecnologias</h1>
@@ -47,7 +51,7 @@
 </details>
 
 <details open>
-  <summary><h2>🗄️ Banco de Dados</h2></summary>
+  <summary><h2>🗔️ Banco de Dados</h2></summary>
   <img src="https://skillicons.dev/icons?i=mysql" alt="database"/>
 </details>
 
@@ -56,30 +60,30 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,windows" alt="tools"/>
 </details>
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <div align="center">
   <img alt="Streak no GitHub" src="https://streak-stats.demolab.com?user=CarinaMendesDev&theme=chartreuse-dark&date_format=j%20M%5B%20Y%5D&card_width=460&background=15F80009&border=19F80582&stroke=19F80582&ring=19F805F7&fire=19F805FD&currStreakNum=FDFF35&currStreakLabel=FDFF35&mode=weekly">
 </div>
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ### 📌 Repositórios em destaque:
 
-- 🎧 [**Web_Spotify**](https://github.com/CarinaMendesDev/web_spotify) — réplica da interface do Spotify com HTML, CSS e JavaScript  
+- 🎷 [**Web_Spotify**](https://github.com/CarinaMendesDev/web_spotify) — réplica da interface do Spotify com HTML, CSS e JavaScript  
 - 🤝 [**varaldossonhossp**](https://github.com/CarinaMendesDev/varaldossonhossp) — projeto voluntário com HTML  
 - 🎁 [**jogo_amigo_secreto**](https://github.com/CarinaMendesDev/jogo_amigo_secreto) — jogo interativo criado no curso iniciante da Alura  
 - 🔢 [**Jogo_Numero_Secreto**](https://github.com/CarinaMendesDev/Jogo_Numero_Secreto) — jogo de adivinhação feito em HTML, CSS e JavaScript  
 - 🏨 [**MauiAppHotelRoyal**](https://github.com/CarinaMendesDev/MauiAppHotelRoyal) — app com interface .NET MAUI para simulação de reservas de hotel  
 - ❌ [**MauiAppJogoDaVelha**](https://github.com/CarinaMendesDev/MauiAppJogoDaVelha) — jogo da velha desenvolvido com C# e .NET MAUI
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <div align="center">
   ✨ Obrigada por visitar meu perfil! ✨  
 </div>
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <div align="center">
   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CarinaMendesDev&show_icons=true&theme=chartreuse-dark&border_color=19f80582&icon_color=15f800b6&bg_color=15f80009&custom_title=Carina's_Github_stats&card_width=100&hide=issues">
