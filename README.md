@@ -23,6 +23,10 @@
   <h1> 
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Incoming%20Envelope.webp" alt="Incoming Envelope" width="40" /> Contato
   </h1>
+
+  <!-- linha animada aqui -->
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  
   <a href="mailto:carinamendes2013@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
   </a>
