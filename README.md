@@ -51,7 +51,7 @@
 
 <details open>
   <summary><h2>💻 Software e Ferramentas</h2></summary>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,windows" alt="tools"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,windows,linux,visualstudio" alt="tools"/>
 </details>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
