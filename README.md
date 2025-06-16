@@ -1,4 +1,21 @@
-<h1 align="center">Olá, eu sou a Carina Mendes! 👋</h1>
+<h1 align="center">
+  Olá, eu sou a Carina Mendes!
+  <svg width="24" height="24" viewBox="0 0 24 24" style="display:inline-block; vertical-align:middle">
+    <text x="0" y="20" font-size="20" style="animation: wave 1.5s infinite">👋</text>
+    <style>
+      @keyframes wave {
+        0% { transform: rotate(0.0deg) }
+       10% { transform: rotate(14.0deg) }
+       20% { transform: rotate(-8.0deg) }
+       30% { transform: rotate(14.0deg) }
+       40% { transform: rotate(-4.0deg) }
+       50% { transform: rotate(10.0deg) }
+       60% { transform: rotate(0.0deg) }
+      100% { transform: rotate(0.0deg) }
+      }
+    </style>
+  </svg>
+</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Dev%20em%20crescimento-%F0%9F%8C%9F-purple" />
