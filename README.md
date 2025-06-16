@@ -15,8 +15,8 @@
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Graduation%20Cap.webp" width="25"/> **Estudante de Engenharia de Software (Bacharelado)**  
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" width="25"/> **Técnica em Desenvolvimento de Sistemas**  
-📍 <img src="https://img.icons8.com/fluency/48/marker.png" width="20"/> **Local:** Jaú - SP
-
+<img src="https://img.icons8.com/fluency/48/marker.png" width="20"/> **Local:** Jaú - SP
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <div align="center">
   <h1> 
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Incoming%20Envelope.webp" alt="Incoming Envelope" width="40" /> Contato
