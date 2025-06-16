@@ -1,10 +1,10 @@
 <h1 align="center">
   Olá, eu sou a Carina Mendes!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="👋" />
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Dev%20em%20crescimento-%F0%9F%8C%9F-purple" />
+  <img src="https://img.shields.io/badge/Dev%20em%20crescimento-%F0%9F%8C%9F-purple?style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/CarinaMendesDev?style=social" />
 </p>
 
@@ -12,19 +12,27 @@
 
 🎓 **Estudante de Engenharia de Software** (Bacharelado)  
 💻 **Técnica em Desenvolvimento de Sistemas**  
-📍 Local: Jaú - SP  
-📫 Contato: **carinamendes2013@gmail.com**
+📍 **Local:** Jaú - SP  
+📫 **Contato:** carinamendes2013@gmail.com
 
 ---
 
 ### 🚀 Tecnologias que estudo:
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![.NET MAUI](https://img.shields.io/badge/.NET_MAUI-512BD4?style=flat&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET MAUI](https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+### 🛠️ Ferramentas que utilizo:
+
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -39,27 +47,17 @@
 
 ---
 
-### 💼 LinkedIn & Contato
+### 💼 LinkedIn & Contato:
 
-[![LinkedIn](https://img.shields.io/badge/-carinamendesdev-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carinamendesdev/)
-📧 carinamendes2013@gmail.com
+[![LinkedIn](https://img.shields.io/badge/-carinamendesdev-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carinamendesdev/)  
+📧 **carinamendes2013@gmail.com**
+
 ---
 
 <div align="center">
-  ✨ Obrigada por visitar meu perfil! ✨
+  ✨ Obrigada por visitar meu perfil! ✨  
 </div>
 
 <!--
 **CarinaMendesDev/CarinaMendesDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
