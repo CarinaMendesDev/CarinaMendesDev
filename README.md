@@ -30,27 +30,6 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <div align="center">
-  <h1> 
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Incoming%20Envelope.webp" alt="Incoming Envelope" width="40" /> Contato
-  </h1>
-
-  <!-- linha animada aqui -->
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-  
-  <a href="mailto:carinamendes2013@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/CarinaMendesDev">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/carinamendesdev/">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
-  </a>
-</div>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<div align="center">
 <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" width="40"/> Tecnologias</h1>
 </div>
 
@@ -75,16 +54,27 @@
 </details>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<div align="center">
+  <h1> 
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Incoming%20Envelope.webp" alt="Incoming Envelope" width="40" /> Contato
+  </h1>
+
+  <!-- linha animada aqui -->
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  
+  <a href="mailto:carinamendes2013@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/CarinaMendesDev">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/carinamendesdev/">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
+  </a>
+</div>
 
 <div align="center">
   <img alt="Streak no GitHub" src="https://streak-stats.demolab.com?user=CarinaMendesDev&theme=chartreuse-dark&date_format=j%20M%5B%20Y%5D&card_width=460&background=15F80009&border=19F80582&stroke=19F80582&ring=19F805F7&fire=19F805FD&currStreakNum=FDFF35&currStreakLabel=FDFF35&mode=weekly">
-</div>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-
-<div align="center">
-  ✨ Obrigada por visitar meu perfil! ✨  
 </div>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -95,6 +85,11 @@
 
 <div align="center">
   <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarinaMendesDev&theme=chartreuse-dark&layout=compact&card_width=300&border_color=19f80582&bg_color=15f80009">
+</div>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<div align="center">
+  ✨ Obrigada por visitar meu perfil! ✨  
 </div>
 
 <p align="center">
