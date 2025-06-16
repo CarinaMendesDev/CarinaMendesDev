@@ -13,9 +13,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Doto&weight=700&size=42&pause=1000&color=19F805F7&center=true&vCenter=true&width=900&lines=+Hey%F0%9F%91%8B+there!!+welcome%E2%9C%A8%F0%9F%A4%A9" alt="welcome mssg"/>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
----
 
-🎓 **Estudante de Engenharia de Software** (Bacharelado)  
+
+[🎓](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Graduation%20Cap.webp) **Estudante de Engenharia de Software** (Bacharelado)  
 💻 **Técnica em Desenvolvimento de Sistemas**  
 📍 **Local:** Jaú - SP  
 📫 **Contato:** carinamendes2013@gmail.com
