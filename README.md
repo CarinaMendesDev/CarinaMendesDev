@@ -40,7 +40,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/-carinamendesdev-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carinamendesdev/)
 📧 carinamendes2013@gmail.com
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 ---
 
 <div align="center">
