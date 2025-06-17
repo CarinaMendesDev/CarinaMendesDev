@@ -47,6 +47,7 @@
   <summary><h2>🗔️ Banco de Dados</h2></summary>
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/>
   <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/assets/workbench.png" width="40" alt="MySQL Workbench"/>
+  <img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" alt="XAMPP" width="40" />
 </details>
 
 <details open>
