@@ -71,7 +71,7 @@
   
   <a href="mailto:carinamendes2013@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
-    <p style="color:#fff; font-size:14px;">carinamendes2013@gmail.com</p>
+    <p style="color: #000; font-size:14px;">carinamendes2013@gmail.com</p>
   </a>
   
 </div>
