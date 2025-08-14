@@ -18,7 +18,7 @@
 <img src="https://img.icons8.com/fluency/48/marker.png" width="20"/> <strong>Local:</strong> Jaú - SP
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-### 📌 Repositórios em destaque:
+### 📌 **Repositórios em destaque:**
 
 - 🦟 [**Jogo Mata Mosquito**](https://carinamendesdev.github.io/jogo-mata-mosquito/) —  jogo simples de mata mosquitos, feito com **HTML5**, **CSS3** e **JavaScript puro**
 - 🎁 [**jogo_amigo_secreto**](https://carinamendesdev.github.io/jogo_amigo_secreto/) — jogo interativo criado no curso iniciante da Alura  
@@ -74,16 +74,14 @@
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
     <p style="color: #000; font-size:14px;">carinamendes2013@gmail.com</p>
   </a>
-  
 </div>
+
  <!-- linha animada aqui -->
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarinaMendesDev&theme=react" width="100%" />
 </div>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ---
 
@@ -101,11 +99,8 @@
 
 ---
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=100&section=footer"/>
-</p>
-<div align="center">
   ✨ Obrigada por visitar meu perfil! ✨  
-</div>
+</p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg" width="100%" height="70px">
   <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" height="20%">
