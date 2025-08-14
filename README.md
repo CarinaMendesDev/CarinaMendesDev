@@ -19,11 +19,12 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+<!-- Repositórios em destaque -->
 <div align="left">
-<h1>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" width="40"/> 
-  📌 Repositórios em destaque:
-</h1>
+  <h2>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Open%20File%20Folder.webp" width="40" style="vertical-align:middle;"/>
+    📌 Repositórios em destaque
+  </h2>
 </div>
 
 - 🦟 [**Jogo Mata Mosquito**](https://carinamendesdev.github.io/jogo-mata-mosquito/) —  jogo simples de mata mosquitos, feito com **HTML5**, **CSS3** e **JavaScript puro**
