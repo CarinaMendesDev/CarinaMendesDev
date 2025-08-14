@@ -69,19 +69,16 @@
 </div>
 
 <div align="left">
-  <a href="https://github.com/CarinaMendesDev">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
+  <a href="https://github.com/CarinaMendesDev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" style="margin-right:10px;"/>
   </a>
   
-  <a href="https://www.linkedin.com/in/carinamendesdev/">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/carinamendesdev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48" style="margin-right:10px;"/>
   </a>
   
- <a href="https://mail.google.com/mail/?view=cm&fs=1&to=carinamendes2013@gmail.com" target="_blank" style="text-decoration:none;">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40" style="vertical-align:middle;"/>
-    <span style="font-size:14px; color:black; vertical-align:middle; margin-left:5px;">
-      carinamendes2013@gmail.com
-    </span>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=carinamendes2013@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="48" style="margin-right:10px;"/>
   </a>
 </div>
 
