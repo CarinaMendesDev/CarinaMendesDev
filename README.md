@@ -103,13 +103,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=100&section=footer"/>
 </p>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
 <div align="center">
   ✨ Obrigada por visitar meu perfil! ✨  
 </div>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg" width="100%" height="70px">
   <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" height="20%">
