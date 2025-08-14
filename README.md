@@ -18,7 +18,13 @@
 <img src="https://img.icons8.com/fluency/48/marker.png" width="20"/> <strong>Local:</strong> Jaú - SP
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-### 📌 **Repositórios em destaque:**
+
+<div align="left">
+<h1>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" width="40"/> 
+  📌 Repositórios em destaque:
+</h1>
+</div>
 
 - 🦟 [**Jogo Mata Mosquito**](https://carinamendesdev.github.io/jogo-mata-mosquito/) —  jogo simples de mata mosquitos, feito com **HTML5**, **CSS3** e **JavaScript puro**
 - 🎁 [**jogo_amigo_secreto**](https://carinamendesdev.github.io/jogo_amigo_secreto/) — jogo interativo criado no curso iniciante da Alura  
@@ -58,10 +64,11 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <div align="center">
-  <h1> 
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Incoming%20Envelope.webp" alt="Incoming Envelope" width="40" /> Contato
+  <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Incoming%20Envelope.webp" alt="Incoming Envelope" width="40" /> Contato
   </h1>
-  
+</div>
+
+<div align="left">
   <a href="https://github.com/CarinaMendesDev">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
   </a>
@@ -70,9 +77,11 @@
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
   </a>
   
-  <a href="mailto:carinamendes2013@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
-    <p style="color: #000; font-size:14px;">carinamendes2013@gmail.com</p>
+ <a href="https://mail.google.com/mail/?view=cm&fs=1&to=carinamendes2013@gmail.com" target="_blank" style="text-decoration:none;">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40" style="vertical-align:middle;"/>
+    <span style="font-size:14px; color:black; vertical-align:middle; margin-left:5px;">
+      carinamendes2013@gmail.com
+    </span>
   </a>
 </div>
 
