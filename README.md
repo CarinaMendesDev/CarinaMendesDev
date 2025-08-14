@@ -20,11 +20,12 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 ### 📌 Repositórios em destaque:
 
+- 🦟 [**Jogo Mata Mosquito**](https://carinamendesdev.github.io/jogo-mata-mosquito/) —  jogo simples de mata mosquitos, feito com **HTML5**, **CSS3** e **JavaScript puro**
 - 🎷 [**Web_Spotify**](https://github.com/CarinaMendesDev/web_spotify) — réplica da interface do Spotify com HTML, CSS e JavaScript  
 - 🤝 [**varaldossonhossp**](https://github.com/CarinaMendesDev/varaldossonhossp) — projeto voluntário com HTML  
 - 🎁 [**jogo_amigo_secreto**](https://github.com/CarinaMendesDev/jogo_amigo_secreto) — jogo interativo criado no curso iniciante da Alura  
 - 🔢 [**Jogo_Numero_Secreto**](https://github.com/CarinaMendesDev/Jogo_Numero_Secreto) — jogo de adivinhação feito em HTML, CSS e JavaScript  
-- 🏨 [**MauiAppHotelRoyal**](https://github.com/CarinaMendesDev/MauiAppHotelRoyal) — app com interface .NET MAUI para simulação de reservas de hotel  
+- 🏨 [**MauiAppHotelRoyal**](https://github.com/CarinaMendesDev/MauiAppHotelRoyal) — app com interface .NET MAUI para simulação de reservas de hotel
 - ❌ [**MauiAppJogoDaVelha**](https://github.com/CarinaMendesDev/MauiAppJogoDaVelha) — jogo da velha desenvolvido com C# e .NET MAUI
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -79,7 +80,7 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <div align="center">
-  <img alt="Streak no GitHub" src="https://streak-stats.demolab.com?user=CarinaMendesDev&theme=chartreuse-dark&date_format=j%20M%5B%20Y%5D&card_width=460&background=15F80009&border=19F80582&stroke=19F80582&ring=19F805F7&fire=19F805FD&currStreakNum=FDFF35&currStreakLabel=FDFF35&mode=weekly">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarinaMendesDev&theme=react" width="100%" />
 </div>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
