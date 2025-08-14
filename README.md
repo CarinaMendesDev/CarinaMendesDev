@@ -21,7 +21,7 @@
 ### 📌 Repositórios em destaque:
 
 - 🦟 [**Jogo Mata Mosquito**](https://carinamendesdev.github.io/jogo-mata-mosquito/) —  jogo simples de mata mosquitos, feito com **HTML5**, **CSS3** e **JavaScript puro**
-- 🎷 [**Web_Spotify**](https://github.com/CarinaMendesDev/web_spotify) — réplica da interface do Spotify com HTML, CSS e JavaScript  
+- 🎷 [**Web_Spotify**](https://carinamendesdev.github.io/web_spotify/) — réplica da interface do Spotify com HTML, CSS e JavaScript  
 - 🤝 [**varaldossonhossp**](https://github.com/CarinaMendesDev/varaldossonhossp) — projeto voluntário com HTML  
 - 🎁 [**jogo_amigo_secreto**](https://github.com/CarinaMendesDev/jogo_amigo_secreto) — jogo interativo criado no curso iniciante da Alura  
 - 🔢 [**Jogo_Numero_Secreto**](https://github.com/CarinaMendesDev/Jogo_Numero_Secreto) — jogo de adivinhação feito em HTML, CSS e JavaScript  
