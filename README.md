@@ -34,7 +34,7 @@
 - 🎷 [**Web_Spotify**](https://carinamendesdev.github.io/web_spotify/) — réplica da interface do Spotify com HTML, CSS e JavaScript  
 - 🤝 [**varaldossonhossp**](https://carinamendesdev.github.io/varaldossonhossp/index.html) — projeto voluntário com HTML  
 - 🏨 [**MauiAppHotelRoyal**](https://github.com/CarinaMendesDev/MauiAppHotelRoyal) — app com interface .NET MAUI para simulação de reservas de hotel
-- ❌ [**MauiAppMinhasCompras**](https://github.com/CarinaMendesDev/MauiAppMinhasCompras) — aplicativo de compras desenvolvido em .NET MAUI, com persistência de dados utilizando SQLite
+- 🛒 [**MauiAppMinhasCompras**](https://github.com/CarinaMendesDev/MauiAppMinhasCompras) — aplicativo de compras desenvolvido em .NET MAUI, com persistência de dados utilizando SQLite
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
