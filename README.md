@@ -22,7 +22,7 @@
 <!-- Repositórios em destaque -->
 <div align="left">
   <h2>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Open%20File%20Folder.webp" width="40" style="vertical-align:middle;"/>
+    <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="40" style="vertical-align:middle;"/>
     📌 Repositórios em destaque
   </h2>
 </div>
