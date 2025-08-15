@@ -30,10 +30,11 @@
 - 🦟 [**Jogo Mata Mosquito**](https://carinamendesdev.github.io/jogo-mata-mosquito/) —  jogo simples de mata mosquitos, feito com **HTML5**, **CSS3** e **JavaScript puro**
 - 🎁 [**jogo_amigo_secreto**](https://carinamendesdev.github.io/jogo_amigo_secreto/) — jogo interativo criado no curso iniciante da Alura  
 - 🔢 [**Jogo_Numero_Secreto**](https://carinamendesdev.github.io/Jogo_Numero_Secreto/) — jogo de adivinhação feito em HTML, CSS e JavaScript  
+- ❌ [**MauiAppJogoDaVelha**](https://github.com/CarinaMendesDev/MauiAppJogoDaVelha) — jogo da velha desenvolvido com C# e .NET MAUI
 - 🎷 [**Web_Spotify**](https://carinamendesdev.github.io/web_spotify/) — réplica da interface do Spotify com HTML, CSS e JavaScript  
 - 🤝 [**varaldossonhossp**](https://carinamendesdev.github.io/varaldossonhossp/index.html) — projeto voluntário com HTML  
 - 🏨 [**MauiAppHotelRoyal**](https://github.com/CarinaMendesDev/MauiAppHotelRoyal) — app com interface .NET MAUI para simulação de reservas de hotel
-- ❌ [**MauiAppJogoDaVelha**](https://github.com/CarinaMendesDev/MauiAppJogoDaVelha) — jogo da velha desenvolvido com C# e .NET MAUI
+- ❌ [**MauiAppMinhasCompras**](https://github.com/CarinaMendesDev/MauiAppMinhasCompras) — aplicativo de compras desenvolvido em .NET MAUI, com persistência de dados utilizando SQLite
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
