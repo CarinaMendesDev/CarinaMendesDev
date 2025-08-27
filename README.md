@@ -36,6 +36,7 @@
 - 🤝 [**varaldossonhossp**](https://carinamendesdev.github.io/varaldossonhossp/index.html) — projeto voluntário com HTML  
 - 🏨 [**MauiAppHotelRoyal**](https://github.com/CarinaMendesDev/MauiAppHotelRoyal) — app com interface .NET MAUI para simulação de reservas de hotel
 - 🛒 [**MauiAppMinhasCompras**](https://github.com/CarinaMendesDev/MauiAppMinhasCompras) — aplicativo de compras desenvolvido em .NET MAUI, com persistência de dados utilizando SQLite
+- 🌐 [**Projeto TecnoLógica**](https://carinamendesdev.github.io/Tecnologica/) — site fictício da disciplina **Aplicação Web e Móveis** da **Uninter**, conceitos de **HTML** e **CSS**.
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
