@@ -1,19 +1,21 @@
-<h1 align="center">
-  Olá, eu sou a Carina Mendes!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="👋" />
-</h1>
+<div align="center">
+  <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+</div>
 
-<p align="center">
+<div width="100%">
+    <h1 align="center">
+      <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=❤Olá,+Sou+a+Carina+Mendes!+👋;" />
+    </h1>
+  </div>
+  
+<div align="center">
   <img src="https://img.shields.io/badge/Dev%20em%20crescimento-%F0%9F%8C%9F-purple?style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/CarinaMendesDev?style=social" />
-</p>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Doto&weight=700&size=42&pause=1000&color=19F805F7&center=true&vCenter=true&width=900&lines=+Hey%F0%9F%91%8B+there!!+welcome%E2%9C%A8%F0%9F%A4%A9" alt="welcome msg"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Doto&weight=700&size=30&pause=1000&color=ADD8E6&center=true&vCenter=true&width=700&lines=+Hey%F0%9F%91%8B+there!!+welcome%E2%9C%A8%F0%9F%A4%A9" alt="welcome msg"/>
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Graduation%20Cap.webp" width="25"/> <strong>Estudante de Engenharia de Software (Bacharelado)</strong><br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Graduation%20Cap.webp" width="25"/> <strong>Engenharia de Software (Bacharelado)</strong><br>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" width="25"/> <strong>Técnica em Desenvolvimento de Sistemas</strong><br>
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" /> **Pós-graduação em IA para Gestão Pública**
 
@@ -94,6 +96,11 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <div align="center">
+  <h1><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40" /> Minha estatística no GitHub
+   </h1>
+</div>
+
+<div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarinaMendesDev&theme=react" width="100%" />
 </div>
 
@@ -113,7 +120,8 @@
 
 ---
 <p align="center">
-  ✨ Obrigada por visitar meu perfil! ✨  
+  ✨ Obrigada por visitar meu perfil! ✨ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="👋" />
+  
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg" width="100%" height="70px">
