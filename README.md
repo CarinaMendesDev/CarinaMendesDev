@@ -11,20 +11,18 @@
   <img align="left" width="40%" src="https://github.com/CarinaMendesDev/CarinaMendesDev/blob/main/Myoctocat.png">
 </div>
 
-<br>
-<br>
-
 <p> <img src="https://img.shields.io/badge/Dev%20em%20crescimento-%F0%9F%8C%9F-purple?style=for-the-badge" <img src="https://img.shields.io/github/followers/CarinaMendesDev?style=social" />
 <img src="https://img.shields.io/github/followers/CarinaMendesDev?style=social" /></p>
 
 <br>
-<h3>
-  - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Graduation%20Cap.webp" width="25"/> <strong>Engenharia de Software (Bacharelado)</strong><br>
-  - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" width="25"/> <strong>Técnica em Desenvolvimento de Sistemas</strong><br>
-  - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" /> Pós-graduação em IA para Gestão Pública<br><br>
-  - <img src="https://img.icons8.com/fluency/48/marker.png" width="20"/> <strong>Local:</strong> Jaú - SP<br><br><br>
-</h3>
 
+<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Graduation%20Cap.webp" width="25"/> <strong>Engenharia de Software (Bacharelado)</strong></p> 
+<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" width="25"/> <strong>Técnica em Desenvolvimento de Sistemas</strong><br></p> 
+<p><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" /><strong>Pós-graduação em IA para Gestão Pública</p></strong>
+<br>
+<p><img src="https://img.icons8.com/fluency/48/marker.png" width="20"/> <strong>Local:</strong> Jaú - SP</p>
+
+<br>
 <br>
 <br>
 
@@ -80,6 +78,8 @@
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/>
   <img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" alt="XAMPP" width="40" />
 </details>
+
+<br>
 
 <details open>
   <summary><h2>💻 Software e Ferramentas</h2></summary>
