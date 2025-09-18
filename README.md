@@ -5,7 +5,7 @@
 <!-- Avatar + Texto lado a lado -->
 <div>
   <!-- Sua imagem à esquerda -->
-  <img align="left" width="300" src="Myoctocat.png" />
+  <img align="left" width="280" src="Myoctocat.png" />
 
   <!-- Texto à direita -->
   <p><b><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=❤Olá,+Sou+a+Carina+Mendes!+👋;" </b></p>
