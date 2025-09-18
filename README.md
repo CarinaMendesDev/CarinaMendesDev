@@ -8,12 +8,16 @@
   
 <!--image-->
 <div>
-  <img align="left" width="30%" src="https://github.com/CarinaMendesDev/CarinaMendesDev/blob/main/Myoctocat.png">
+  <img align="left" width="40%" src="https://github.com/CarinaMendesDev/CarinaMendesDev/blob/main/Myoctocat.png">
 </div>
-<br><br>
+
+<br>
+<br>
+
 <p> <img src="https://img.shields.io/badge/Dev%20em%20crescimento-%F0%9F%8C%9F-purple?style=for-the-badge" <img src="https://img.shields.io/github/followers/CarinaMendesDev?style=social" />
 <img src="https://img.shields.io/github/followers/CarinaMendesDev?style=social" /></p>
 
+<br>
 <h3>
   - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Graduation%20Cap.webp" width="25"/> <strong>Engenharia de Software (Bacharelado)</strong><br>
   - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" width="25"/> <strong>Técnica em Desenvolvimento de Sistemas</strong><br>
@@ -21,10 +25,8 @@
   - <img src="https://img.icons8.com/fluency/48/marker.png" width="20"/> <strong>Local:</strong> Jaú - SP<br><br><br>
 </h3>
 
-<!--image-->
-<div>
-  <img align="right" width="30%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
-</div>
+<br>
+<br>
 
 <!-- Repositórios em destaque -->
 <div align="left">
@@ -32,6 +34,11 @@
     <img src="https://i.gifer.com/7efs.gif" width="40" style="vertical-align:middle;"/>
     📌 Repositórios em destaque
   </h2>
+</div>
+
+<!--image-->
+<div>
+  <img align="right" width="30%" src="https://github.com/CarinaMendesDev/CarinaMendesDev/blob/main/git_lupa.png">
 </div>
 
 - 👩‍💻 [**Portfólio**](https://carinamendesdev.github.io/Portifolio_CarinaMendes/) — portfólio criado com **HTML5**, **CSS3** e **JavaScript**.
@@ -51,6 +58,11 @@
 
 <div align="center">
 <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" width="40"/> Tecnologias</h1>
+</div>
+
+<!--image-->
+<div>
+  <img align="left" width="50%" src="https://github.com/CarinaMendesDev/CarinaMendesDev/blob/main/tecnologia.gif">
 </div>
 
 <details open>
@@ -77,23 +89,29 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <div align="center">
-  <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Incoming%20Envelope.webp" alt="Incoming Envelope" width="40" /> Contato
-  </h1>
+  <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Incoming%20Envelope.webp" alt="Incoming Envelope" width="40" /> Contato</h1>
+</div>
+
+<!--image-->
+<div>
+  <img align="right" width="20%" src="https://github.com/CarinaMendesDev/CarinaMendesDev/blob/main/contato.png">
 </div>
 
 <div align="left">
   <a href="https://github.com/CarinaMendesDev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" style="margin-right:10px;"/>
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="60" style="margin-right:20px;"/>
   </a>
-  
+
   <a href="https://www.linkedin.com/in/carinamendesdev/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48" style="margin-right:10px;"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="60" style="margin-right:20px;"/>
   </a>
-  
+
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=carinamendes2013@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="48" style="margin-right:10px;"/>
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="60"/>
   </a>
 </div>
+
+
 
  <!-- linha animada aqui -->
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
