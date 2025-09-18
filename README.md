@@ -5,12 +5,12 @@
 <!-- Avatar + Texto lado a lado -->
 <div>
   <!-- Sua imagem à esquerda -->
-  <img align="left" width="280" src="Myoctocat.png" />
+  <img align="left" width="300" src="Myoctocat.png" />
 
   <!-- Texto à direita -->
   <p><b><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=❤Olá,+Sou+a+Carina+Mendes!+👋;" </b></p>
-  <p><b><img src="https://img.shields.io/badge/Dev%20em%20crescimento-%F0%9F%8C%9F-purple?style=for-the-badge" />
-    <img src="https://img.shields.io/github/followers/CarinaMendesDev?style=social" /></b></p>
+  <p><b><img src="https://img.shields.io/badge/Dev%20em%20crescimento-%F0%9F%8C%9F-purple?style=for-the-badge" <img src="https://img.shields.io/github/followers/CarinaMendesDev?style=social" </b>
+   <b><img src="https://img.shields.io/github/followers/CarinaMendesDev?style=social" </b></p>
 
   - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Graduation%20Cap.webp" width="25"/> <strong>Engenharia de Software (Bacharelado)</strong><br>
   - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" width="25"/> <strong>Técnica em Desenvolvimento de Sistemas</strong><br>
