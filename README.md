@@ -2,26 +2,25 @@
   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
 </div>
 
-<div width="100%">
-    <h1 align="center">
-      <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=❤Olá,+Sou+a+Carina+Mendes!+👋;" />
-    </h1>
-  </div>
-  
-<div align="center">
-  <img src="https://img.shields.io/badge/Dev%20em%20crescimento-%F0%9F%8C%9F-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/CarinaMendesDev?style=social" />
-  <img src="https://readme-typing-svg.demolab.com?font=Doto&weight=700&size=30&pause=1000&color=ADD8E6&center=true&vCenter=true&width=700&lines=+Hey%F0%9F%91%8B+there!!+welcome%E2%9C%A8%F0%9F%A4%A9" alt="welcome msg"/>
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<!-- Avatar + Texto lado a lado -->
+<div>
+  <!-- Sua imagem à esquerda -->
+  <img align="left" width="300" src="Myoctocat.png" />
+
+  <!-- Texto à direita -->
+  <p><b><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=❤Olá,+Sou+a+Carina+Mendes!+👋;" </b></p>
+  <p><b><img src="https://img.shields.io/badge/Dev%20em%20crescimento-%F0%9F%8C%9F-purple?style=for-the-badge" />
+    <img src="https://img.shields.io/github/followers/CarinaMendesDev?style=social" /></b></p>
+
+  - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Graduation%20Cap.webp" width="25"/> <strong>Engenharia de Software (Bacharelado)</strong><br>
+  - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" width="25"/> <strong>Técnica em Desenvolvimento de Sistemas</strong><br>
+  - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" /> **Pós-graduação em IA para Gestão Pública**
+  - <img src="https://img.icons8.com/fluency/48/marker.png" width="20"/> <strong>Local:</strong> Jaú - SP 
+
+  <br/>
+
+  <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Doto&weight=700&size=30&pause=1000&color=ADD8E6&center=true&vCenter=true&width=700&lines=+Hey%F0%9F%91%8B+there!!+Welcome%E2%9C%A8" alt="Welcome msg"/>
 </div>
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Graduation%20Cap.webp" width="25"/> <strong>Engenharia de Software (Bacharelado)</strong><br>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" width="25"/> <strong>Técnica em Desenvolvimento de Sistemas</strong><br>
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" /> **Pós-graduação em IA para Gestão Pública**
-
-<img src="https://img.icons8.com/fluency/48/marker.png" width="20"/> <strong>Local:</strong> Jaú - SP
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <!-- Repositórios em destaque -->
 <div align="left">
