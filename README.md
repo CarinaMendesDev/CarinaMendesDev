@@ -20,6 +20,13 @@
   <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Doto&weight=700&size=30&pause=1000&color=ADD8E6&center=true&vCenter=true&width=700&lines=+Hey%F0%9F%91%8B+there!!+Welcome%E2%9C%A8" alt="Welcome msg"/>
 </div>
 
+
+
+<!--Night Owl image-->
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
+
 <!-- Repositórios em destaque -->
 <div align="left">
   <h2>
