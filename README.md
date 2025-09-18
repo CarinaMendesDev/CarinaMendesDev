@@ -1,30 +1,29 @@
 <div align="center">
   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
 </div>
-
-<!-- Avatar + Texto lado a lado -->
+ 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=❤Olá,+Sou+a+Carina+Mendes!+👋;" alt="Olá, sou a Carina!">
+</p>
+  
+<!--image-->
 <div>
-  <!-- Sua imagem à esquerda -->
-  <img align="left" width="300" src="https://github.com/CarinaMendesDev/CarinaMendesDev/blob/main/Myoctocat.png" />
+  <img align="left" width="30%" src="https://github.com/CarinaMendesDev/CarinaMendesDev/blob/main/Myoctocat.png">
+</div>
+<br><br>
+<p> <img src="https://img.shields.io/badge/Dev%20em%20crescimento-%F0%9F%8C%9F-purple?style=for-the-badge" <img src="https://img.shields.io/github/followers/CarinaMendesDev?style=social" />
+<img src="https://img.shields.io/github/followers/CarinaMendesDev?style=social" /></p>
 
-  <!-- Texto à direita -->
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=❤Olá,+Sou+a+Carina+Mendes!+👋;" />
-  <img src="https://img.shields.io/badge/Dev%20em%20crescimento-%F0%9F%8C%9F-purple?style=for-the-badge" <img src="https://img.shields.io/github/followers/CarinaMendesDev?style=social" />
-  <img src="https://img.shields.io/github/followers/CarinaMendesDev?style=social" />
-
+<h3>
   - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Graduation%20Cap.webp" width="25"/> <strong>Engenharia de Software (Bacharelado)</strong><br>
   - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" width="25"/> <strong>Técnica em Desenvolvimento de Sistemas</strong><br>
-  - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" /> **Pós-graduação em IA para Gestão Pública**
-  - <img src="https://img.icons8.com/fluency/48/marker.png" width="20"/> <strong>Local:</strong> Jaú - SP 
-    
-  <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Doto&weight=700&size=30&pause=1000&color=ADD8E6&center=true&vCenter=true&width=700&lines=+Hey%F0%9F%91%8B+there!!+Welcome%E2%9C%A8" alt="Welcome msg"/>
-</div>
+  - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" /> Pós-graduação em IA para Gestão Pública<br><br>
+  - <img src="https://img.icons8.com/fluency/48/marker.png" width="20"/> <strong>Local:</strong> Jaú - SP<br><br><br>
+</h3>
 
-
-
-<!--Night Owl image-->
+<!--image-->
 <div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+  <img align="right" width="30%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
 
 <!-- Repositórios em destaque -->
