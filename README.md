@@ -59,6 +59,7 @@
 - 🤝 [**Varal dos Sonhos sp**](https://carinamendesdev.github.io/varaldossonhossp/index.html) — projeto voluntário com HTML  
 - 🏨 [**Maui App Hotel Royal**](https://github.com/CarinaMendesDev/MauiAppHotelRoyal) — app com interface .NET MAUI para simulação de reservas de hotel
 - 🛒 [**Maui App Minhas Compras**](https://github.com/CarinaMendesDev/MauiAppMinhasCompras) — aplicativo de compras desenvolvido em .NET MAUI, com persistência de dados utilizando SQLite
+- 🌦️ [**Maui App Tempo Agora**](https://github.com/CarinaMendesDev/MauiAppTempoAgora) — aplicativo de clima desenvolvido em .NET MAUI, aprender a consumir uma API de clima em tempo real, exibir informações adicionais ao usuário e aplicar **tratamento de erros** para garantir robustez ao aplicativo.  
 - 🌐 [**Projeto TecnoLógica**](https://carinamendesdev.github.io/TecnoLogica/) — site fictício da disciplina **Aplicação Web e Móveis** da **Uninter**, conceitos de **HTML** e **CSS**.
 - 📚 [**Pós-Graduação: Inteligência Artificial para Gestão Pública**](https://github.com/CarinaMendesDev/PosGraduacaoInteligenciaArtificial) — este repositório reúne meus resumos, anotações e materiais de estudo da pós-graduação em IA aplicada à Gestão Pública da Faculdade **Uninter**.
 
