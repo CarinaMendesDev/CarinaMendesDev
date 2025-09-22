@@ -7,6 +7,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=❤Olá,+Sou+a+Carina+Mendes!+👋;" alt="Olá, sou a Carina!">
 </p>
+
+---
   
 <!--Avatar esquerda-->
 <p>
@@ -16,7 +18,7 @@
 <!--Gitbags-->
 <p width="40">
   <img src="https://img.shields.io/badge/Dev%20em%20crescimento-%F0%9F%8C%9F-purple?style=for-the-badge">
-  <img src="https://img.shields.io/github/followers/CarinaMendesDev?style=social"/><br><br>
+  <img src="https://img.shields.io/github/followers/CarinaMendesDev?style=social"/><br>
   
 <!--Sobre mim-->
   <strong>✨ Olá, seja muito bem-vindo(a) ao meu cantinho no GitHub!</strong><br>
@@ -38,12 +40,12 @@
   <img src="https://img.icons8.com/fluency/48/marker.png" width="20"/><strong>Local:</strong> Jaú - SP<br>
 </p>
 
-<br>
+<br><br>
+
+---
 
 <!-- Repositórios em destaque -->
-<p>
-  <h2><img align="left" src="https://i.gifer.com/7efs.gif" width="40" style="vertical-align:middle;"/>📌 Repositórios em destaque</h2>
-</p>
+<h2>📌 Repositórios em destaque</h2>
 
 <!--image-->
 <div>
@@ -63,33 +65,28 @@
 - 🌐 [**Projeto TecnoLógica**](https://carinamendesdev.github.io/TecnoLogica/) — site fictício da disciplina **Aplicação Web e Móveis** da **Uninter**, conceitos de **HTML** e **CSS**.
 - 📚 [**Pós-Graduação: Inteligência Artificial para Gestão Pública**](https://github.com/CarinaMendesDev/PosGraduacaoInteligenciaArtificial) — este repositório reúne meus resumos, anotações e materiais de estudo da pós-graduação em IA aplicada à Gestão Pública da Faculdade **Uninter**.
 
- <!-- linha animada -->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+---
 
 <!--Tecnologias-->
 <div align="left">
   <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" width="40"/>   Tecnologias</h2>
 </div>
 
-<!--Avatar tecnologia-->
-<p>
-  <img src="https://github.com/CarinaMendesDev/CarinaMendesDev/blob/main/tecnologia.gif" width="50%" align="left">
-</p>
+<p> <img src="https://github.com/CarinaMendesDev/CarinaMendesDev/blob/main/tecnologia.gif" width="50%" align="left"> </p>
 
-<p>
-  <strong>🖼️ Frontend</strong><br>
-  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js" alt="frontend-skills"/>
-  <br><br>
-  <strong>🧰 Backend</strong><br>
-  <img src="https://skillicons.dev/icons?i=python,ts" alt="backend-skills"/>
-  <br><br>
-  <strong>🗔️ Banco de Dados</strong>
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/><img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" alt="XAMPP" width="40"/><br>
-  <strong>💻 Software e Ferramentas</strong>
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,windows,linux,visualstudio" alt="tools"/><img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</p>
+<br>
+
+| **Frontend** <br> ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) ![JavaScript](https://skillicons.dev/icons?i=javascript)   
+<br>
+| **Backend** <br> ![Python](https://skillicons.dev/icons?i=python) ![TypeScript](https://skillicons.dev/icons?i=typescript)   
+<br>
+| **Banco de Dados** <br> ![MySQL](https://skillicons.dev/icons?i=mysql)   
+<br>
+| **Software & Ferramentas** <br> ![Git](https://skillicons.dev/icons?i=git) ![Github](https://skillicons.dev/icons?i=github) ![VSCode](https://skillicons.dev/icons?i=vscode) ![Windows](https://skillicons.dev/icons?i=windows)   
+
+<br><br><br>
+
+---
 
 <!--Contato-->
 <p align="left">
