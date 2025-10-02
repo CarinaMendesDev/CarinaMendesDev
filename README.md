@@ -65,7 +65,7 @@
 - 🌐 [**Projeto TecnoLógica**](https://carinamendesdev.github.io/TecnoLogica/) — site fictício da disciplina **Aplicação Web e Móveis** da **Uninter**, conceitos de **HTML** e **CSS**.
 - 📚 [**Pós-Graduação: Inteligência Artificial para Gestão Pública**](https://github.com/CarinaMendesDev/PosGraduacaoInteligenciaArtificial) — este repositório reúne meus resumos, anotações e materiais de estudo da pós-graduação em IA aplicada à Gestão Pública da Faculdade **Uninter**.
 - 🤖 [**Catálogo de APIs Gratuitas**](https://github.com/CarinaMendesDev/Lista_APIS_Recentes) — Um repositório colaborativo que lista **APIs públicas e gratuitas recentes - **2025**.
-- 🐘 [**Programação Orientada a Objetos (POO) em PHP**](https://github.com/CarinaMendesDev/PH_orientado_objeto) — Repositório de estudos do principais conceitos de **POO em PHP**, abordando **classes, objetos, encapsulamento e herança**. 
+- 🐘 [**Programação Orientada a Objetos (POO) em PHP**](https://github.com/CarinaMendesDev/PH_orientado_objeto) — Repositório de estudos dos principais conceitos de **POO em PHP**, abordando **classes, objetos, encapsulamento e herança**. 
   
 ---
 
