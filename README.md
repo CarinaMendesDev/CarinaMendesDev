@@ -1,12 +1,15 @@
 <!--Cabecalho-->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true" width=100%/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true" width=100%>
 </div>
 
 <!--Boas Vindas--> 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=❤Olá,+Sou+a+Carina+Mendes!+👋;" alt="Olá, sou a Carina!">
+  <img width="20%" src="https://github.com/CarinaMendesDev/CarinaMendesDev/blob/main/git.gif">
 </p>
+
+
 
 ---
   
@@ -17,30 +20,31 @@
 
 <!--Gitbags-->
 <p width="40">
-  <img src="https://img.shields.io/badge/Dev%20em%20crescimento-%F0%9F%8C%9F-purple?style=for-the-badge">
-  <img src="https://img.shields.io/github/followers/CarinaMendesDev?style=social"/><br>
-  
+  <img width="20%" src="https://img.shields.io/badge/Dev%20em%20crescimento-%F0%9F%8C%9F-purple?style=for-the-badge">
+  <img width="10%" src="https://img.shields.io/github/followers/CarinaMendesDev?style=social"/><br>
+
 <!--Sobre mim-->
   <strong>✨ Olá, seja muito bem-vindo(a) ao meu cantinho no GitHub!</strong><br>
   🚀 Aqui você vai encontrar meus estudos, testes e aprendizados em tecnologia.<br>
   ✨ Um espaço para explorar, errar, acertar e evoluir sempre.<br><br>
-      <strong>Sobre mim:</strong><br>
+      <strong>📌Sobre mim:</strong><br>
   💡 Apaixonada por tecnologia, inovação e aprendizados contínuos.<br>
   📚 Cada projeto é uma oportunidade de crescer e compartilhar conhecimento.<br>
 </p>
 
 <!--Formacao direita-->
 <p>
-  <strong>Estudos:</strong><br>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Graduation%20Cap.webp" width="25"/><strong>Bacharelado Engenharia de Software</strong><br>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" width="25"/><strong>Técnica em Desenvolvimento de Sistemas</strong><br>
+  <strong>📌 Estudos:</strong><br>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Graduation%20Cap.webp" width="25"/><strong>Bacharelado em Engenharia de Software</strong><br>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" width="25"/><strong>Técnico em Desenvolvimento de Sistemas</strong><br>
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/><strong>Pós-graduação em IA para Gestão Pública</strong>
 
+<br><br>
+  
 <!--Localizaçao direita-->
+<p>
   <img src="https://img.icons8.com/fluency/48/marker.png" width="20"/><strong>Local:</strong> Jaú - SP<br>
 </p>
-
-<br><br>
 
 ---
 
