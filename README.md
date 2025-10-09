@@ -89,7 +89,7 @@
 </div> 
 
 <p>
-  <img src="https://github.com/CarinaMendesDev/CarinaMendesDev/blob/main/tecnologia.gif" width="25%" align="left">
+  <img src="https://github.com/CarinaMendesDev/CarinaMendesDev/blob/main/tecnologia.gif" width="20%" align="left">
 
 
 <table align="right"  width="10%>
