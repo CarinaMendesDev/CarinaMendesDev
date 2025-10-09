@@ -92,7 +92,7 @@
   <img src="https://github.com/CarinaMendesDev/CarinaMendesDev/blob/main/tecnologia.gif" width="20%" align="left">
 
 
-<table align="right"  width="10%>
+<table align="right">
 <tr>
 <td>
 
