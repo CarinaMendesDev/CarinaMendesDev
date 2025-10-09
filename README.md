@@ -9,9 +9,7 @@
   <img width="20%" src="https://github.com/CarinaMendesDev/CarinaMendesDev/blob/main/git.gif">
 </p>
 
-
-
----
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
   
 <!--Avatar esquerda-->
 <p>
@@ -46,7 +44,7 @@
   <img src="https://img.icons8.com/fluency/48/marker.png" width="20"/><strong>Local:</strong> Jaú - SP<br>
 </p>
 
----
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
 <!-- Repositórios em destaque -->
 <h2>📌 Repositórios em destaque</h2>
@@ -72,7 +70,7 @@
 - 🐘 [**Programação Orientada a Objetos (POO) em PHP**](https://github.com/CarinaMendesDev/PH_orientado_objeto) — Repositório de estudos dos principais conceitos de **POO em PHP**, abordando **classes, objetos, encapsulamento e herança**. 
 - 📋 [**Sistema de Cadastro de Amigos em PHP**](https://github.com/CarinaMendesDev/CadastroDeAmigos) — Sistema simples de cadastro, listagem, edição e exclusão de amigos, desenvolvido em **PHP** com **MySQL**, ideal para fins acadêmicos. 
     
----
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
 <!--Tecnologias-->
 <div align="left">
@@ -93,7 +91,7 @@
 
 <br><br><br>
 
----
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
 <!--Contato-->
 <p align="left">
@@ -112,8 +110,7 @@
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=carinamendes2013@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="60"/></a>
 </p>
 
-<!-- linha animada -->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
 <!--Estatisticas-->
 <div align="center">
@@ -124,21 +121,22 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarinaMendesDev&theme=react" width="100%" />
 </div>
 
----
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CarinaMendesDev&theme=react" width="49%" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CarinaMendesDev&theme=react" width="49%" />
 </p>
 
----
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CarinaMendesDev&theme=react" width="49%" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CarinaMendesDev&theme=react&utcOffset=8" width="49%" />
 </p>
 
----
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+
 <p align="center">✨ Obrigada por visitar meu perfil! ✨<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" alt="👋" /></p>
 
 <!--Rodape-->
