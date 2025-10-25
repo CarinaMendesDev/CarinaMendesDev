@@ -78,6 +78,7 @@
 - 🤖 [**Catálogo de APIs Gratuitas 2025**](https://github.com/CarinaMendesDev/Lista_APIS_Recentes) — lista colaborativa de APIs públicas.  
 - 🐘 [**POO em PHP**](https://github.com/CarinaMendesDev/PH_orientado_objeto) — estudos sobre classes e herança em PHP.  
 - 📋 [**Sistema de Cadastro de Amigos**](https://github.com/CarinaMendesDev/CadastroDeAmigos) — CRUD em PHP + MySQL.  
+- 💼 [**Sistema de Currículos**](https://github.com/CarinaMendesDev/SistemaDeCurrilulos) — projeto desenvolvido com base no padrão MVC em PHP (dados pessoais, formações, informações profissionais e acadêmicas).
 
 <img src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" width="100%" loading="lazy">
 
