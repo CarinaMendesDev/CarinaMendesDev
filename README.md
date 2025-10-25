@@ -1,6 +1,6 @@
 <!-- ========================== -->
 <!-- 🌊 Cabeçalho animado -->
-<!-- ========================== -->
+<!-- ========================= -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true" width="100%">
 </div>
