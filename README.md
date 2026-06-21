@@ -83,10 +83,10 @@
 <img src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" width="100%" loading="lazy">
 
 <!-- ========================== -->
-<!-- 🧰 Ferramentas -->
+<!-- 🧰Ferramentas -->
 <!-- ========================== -->
 <div align="left">
-  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" width="40"/>   Tecnologias</h2>
+  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" width="40"/>   Ferramentas</h2>
 </div> 
 
 <p>
