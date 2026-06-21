@@ -83,7 +83,7 @@
 <img src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" width="100%" loading="lazy">
 
 <!-- ========================== -->
-<!-- 🧰 Tecnologia -->
+<!-- 🧰 Ferramentas -->
 <!-- ========================== -->
 <div align="left">
   <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" width="40"/>   Tecnologias</h2>
@@ -97,7 +97,7 @@
 <tr>
 <td>
 
-| **Categoria** | **Tecnologias** |
+| **Categoria** | **Ferramentas** |
 |----------------|-----------------|
 | **Frontend** | ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) ![JavaScript](https://skillicons.dev/icons?i=javascript) <img src="https://img.shields.io/badge/XAML-blue?logo=xaml&logoColor=white"> |
 | **Backend** | ![PHP](https://skillicons.dev/icons?i=php) ![Python](https://skillicons.dev/icons?i=python) ![C#](https://skillicons.dev/icons?i=cs) ![.NET](https://skillicons.dev/icons?i=dotnet) ![TypeScript](https://skillicons.dev/icons?i=typescript) |
